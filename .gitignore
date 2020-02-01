@@ -1,2 +1,12 @@
 /chatbot_env/
-/LICENSE
+*LICENSE
+*db.sqlite3
+
+*/settings.py
+*/__pycache__
+*/migrations
+
+
+# /tsuyuchat/__pycache__
+# /tsuyuchatapp/__pycache__
+# /tsuyuchatapp/migrations
