@@ -5,7 +5,7 @@
 */settings.py
 */__pycache__
 */migrations
-
+.env
 
 # /tsuyuchat/__pycache__
 # /tsuyuchatapp/__pycache__
